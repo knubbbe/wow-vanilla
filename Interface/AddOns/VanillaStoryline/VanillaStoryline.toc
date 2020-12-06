@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: VanillaStoryline
+## Author: |cffABD473Renew @ nostalrius.org
+## Version: 1.0.0
+## Notes: VanillaStoryline - by |cff00FF00Renew |r@ nostalrius.org
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: StorylineOptions
+
+Assets\Localisation.lua
+Assets\Animations.lua
+VanillaStoryline.lua

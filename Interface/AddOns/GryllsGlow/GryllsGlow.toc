@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cffff8000Grylls|rGlow
+## Author: Grylls
+## Notes: oGlow like item border colors for the character frame
+## Version: 1
+
+GryllsGlow.lua
+GryllsGlow.xml

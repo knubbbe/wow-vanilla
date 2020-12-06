@@ -1,0 +1,121 @@
+
+QuestieSeenQuests = {
+	[4170531258] = 0,
+	[3383057274] = 0,
+	[144048658] = 0,
+	[1152770522] = 0,
+	[3626672946] = 0,
+}
+QuestieCachedQuests = {
+	[4170531258] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Berard's Journal: 0/1",
+		},
+		["logId"] = 2,
+		["leaderboards"] = 1,
+		["questName"] = "A Recipe For Death",
+		["level"] = 15,
+		["tracked"] = false,
+		["questTag"] = "Elite",
+	},
+	[3383057274] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Dalaran Pendant: 0/8",
+		},
+		["tracked"] = false,
+		["questName"] = "Ambermill Investigations",
+		["level"] = 16,
+		["leaderboards"] = 1,
+		["logId"] = 4,
+	},
+	[144048658] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Head of Grimson: 0/1",
+		},
+		["logId"] = 3,
+		["tracked"] = true,
+		["questName"] = "Arugal's Folly",
+		["level"] = 15,
+		["arrowPoint"] = {
+			["hash"] = 144048658,
+			["c"] = 2,
+			["dist"] = 650.400695468192,
+			["yDelta"] = 110.4994625745735,
+			["xDelta"] = 640.9453435638941,
+			["y"] = 0.4484,
+			["x"] = 0.5817,
+			["title"] = "|cFFFFFF00[15] Arugal's Folly|r",
+			["z"] = 16,
+		},
+		["leaderboards"] = 1,
+	},
+	[1152770522] = {
+		["tracked"] = false,
+		["isComplete"] = 1,
+		["questName"] = "The Engraved Ring",
+		["level"] = 16,
+		["leaderboards"] = 0,
+		["logId"] = 5,
+	},
+	[3626672946] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Rot Hide Ichor: 0/8",
+		},
+		["tracked"] = false,
+		["questName"] = "Rot Hide Ichor",
+		["level"] = 17,
+		["leaderboards"] = 1,
+		["logId"] = 6,
+	},
+}
+QuestieConfig = {
+	["trackerAlpha"] = 0.6,
+	["alwaysShowObjectives"] = true,
+	["maxShowLevel"] = 7,
+	["showToolTips"] = true,
+	["clusterQuests"] = true,
+	["getVersion"] = "3.7.1",
+	["showMapNotes"] = false,
+	["boldColors"] = false,
+	["showTrackerHeader"] = false,
+	["trackerScale"] = 1,
+	["arrowEnabled"] = true,
+	["trackerMinimize"] = false,
+	["trackerList"] = false,
+	["arrowTime"] = true,
+	["useQuestLinks"] = true,
+	["trackerBackground"] = false,
+	["trackerEnabled"] = true,
+	["resizeWorldmap"] = true,
+	["showProfessionQuests"] = false,
+	["minLevelFilter"] = true,
+	["minimapZoom"] = false,
+	["hideMinimapIcons"] = false,
+	["minShowLevel"] = 4,
+	["maxLevelFilter"] = true,
+	["corpseArrow"] = true,
+	["minimapButton"] = true,
+	["hideObjectives"] = false,
+}
+QuestieTrackerVariables = {
+	["position"] = {
+		["relativeTo"] = "UIParent",
+		["point"] = "TOPLEFT",
+		["relativePoint"] = "TOPLEFT",
+		["yOfs"] = 0,
+		["xOfs"] = 0,
+	},
+}
+QuestieMinimapPosition = -104.2491756612666

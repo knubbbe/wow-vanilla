@@ -1,0 +1,3 @@
+
+ButterQuestTrackerCharacterConfig = nil
+ButterQuestTrackerConfigCharacter = nil

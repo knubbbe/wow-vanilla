@@ -1,0 +1,133 @@
+
+CTA_SavedVariables = {
+	["FilterLevel"] = 4,
+	["ShowOnMinimap"] = 1,
+	["GreyList"] = {
+	},
+	["MuteLFG"] = 1,
+	["CTAWM_Variables"] = {
+		["data"] = {
+			["Turtle WoW"] = {
+				["Fredge"] = {
+					[1] = 1607291931,
+					[2] = 60,
+					[3] = "Troll",
+					[4] = "Shaman",
+					[5] = "Macrochelys",
+				},
+				["Nythandral"] = {
+					[1] = 1607291415,
+					[2] = 60,
+					[3] = "Night Elf",
+					[4] = "Rogue",
+					[5] = "Thunder Ale Brewing Co",
+				},
+				["Schwarz"] = {
+					[1] = 1607291367,
+					[2] = 41,
+					[3] = "Tauren",
+					[4] = "Warrior",
+					[5] = "The Warsong Outriders",
+				},
+				["Sweetsquirit"] = {
+					[1] = 1607291283,
+					[2] = 51,
+					[3] = "Human",
+					[4] = "Paladin",
+					[5] = "",
+				},
+				["Wicate"] = {
+					[1] = 1607291970,
+					[2] = 60,
+					[3] = "Human",
+					[4] = "Paladin",
+					[5] = "Molten Core Salvage Ops",
+				},
+				["Molkerei"] = {
+					[1] = 1607292187,
+					[2] = 60,
+					[3] = "Tauren",
+					[4] = "Warrior",
+					[5] = "Schmetterlingsbrigade",
+				},
+				["Hilah"] = {
+					[1] = 1607291819,
+					[2] = 44,
+					[3] = "Orc",
+					[4] = "Shaman",
+					[5] = "Traveler",
+				},
+				["Atalanta"] = {
+					[1] = 1607291597,
+					[2] = 38,
+					[3] = "Orc",
+					[4] = "Warrior",
+					[5] = "",
+				},
+			},
+		},
+		["maxEntriesPerRealm"] = 100,
+	},
+	["MainFrameTransparency"] = 0.9000000357627869,
+	["timeLastMsgAdded"] = 1607292806,
+	["chatFrameNum"] = 1,
+	["messageList"] = {
+		["Turtle WoW"] = {
+			[1] = {
+			},
+			[2] = {
+				[1] = {
+					["options"] = "x",
+					["elapsed"] = 1,
+					["author"] = "",
+					["message"] = "LF1M tank ZF",
+					["op"] = "Hilah",
+					["time"] = "2213",
+					["who"] = {
+						["guild"] = "<Traveler>",
+						["level"] = 44,
+						["class"] = "Shaman",
+					},
+					["ctaType"] = "C",
+				},
+				[2] = {
+					["options"] = "x",
+					["elapsed"] = 2,
+					["author"] = "",
+					["message"] = "Need 1-2 heals 7 dps for ZG or AQ20. 7 /20",
+					["op"] = "Molkerei",
+					["time"] = "2212",
+					["who"] = {
+						["guild"] = "<Schmetterlingsbrigade>",
+						["level"] = 60,
+						["class"] = "Warrior",
+					},
+					["ctaType"] = "C",
+				},
+				[3] = {
+					["options"] = "x",
+					["elapsed"] = 5,
+					["author"] = "",
+					["message"] = "LFM heal&2dps RFD",
+					["op"] = "Atalanta",
+					["time"] = "2209",
+					["who"] = {
+						["guild"] = "<>",
+						["level"] = 38,
+						["class"] = "Warrior",
+					},
+					["ctaType"] = "C",
+					["whoAttempts"] = 0,
+				},
+			},
+		},
+	},
+	["MinimapArcOffset"] = 260,
+	["MinimapMsgRadiusOffset"] = 77,
+	["version"] = 21,
+	["MinimapMsgArcOffset"] = 261,
+	["MinimapRadiusOffset"] = 74,
+	["runCount"] = 3,
+	["MonitorLfg"] = 1,
+	["FilterLfg"] = 1,
+}

@@ -1,0 +1,25 @@
+
+SellValues = {
+	["Briarthorn"] = 25,
+	["Slumber Sand"] = 3,
+	["Soul Shard"] = 0,
+	["Swiftthistle"] = 15,
+	["Riding Turtle"] = 0,
+	["Earthroot"] = 20,
+	["Weak Troll's Blood Potion"] = 10,
+	["Mageroyal"] = 20,
+	["Linen Cloth"] = 13,
+	["Silverleaf"] = 10,
+	["Minor Mana Potion"] = 10,
+	["Deliah's Ring"] = 0,
+	["Minor Healthstone"] = 0,
+	["Boiled Clams"] = 20,
+	["Lesser Healing Potion"] = 25,
+	["Hearthstone"] = 0,
+	["Red Dragon Orb"] = 0,
+	["Peacebloom"] = 10,
+	["Mild Spices"] = 0,
+	["Heavy Linen Bandage"] = 20,
+}
+InvList_HiddenItems = nil
+InvList_TooltipMode = 2

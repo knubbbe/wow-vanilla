@@ -1,0 +1,6 @@
+pfQuest: disabled
+!Questie: disabled
+MonkeyQuest: enabled
+ButterQuestTracker: disabled
+VanillaStoryline: enabled
+vQueue: disabled

@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Looking For Turtles - |cffabd473LFT
+## Author: Xerron/Er
+## Version: 0.0.3.3
+## Notes: LFG Addon for Turtle WoW
+## SavedVariables: LFT_FORMED_GROUPS
+## SavedVariablesPerCharacter: LFT_ROLE, LFT_TYPE, LFT_CONFIG
+ChatThrottleLib\ChatThrottleLib.lua
+LFT.xml

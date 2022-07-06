@@ -1,0 +1,12 @@
+
+SellValues = {
+	["Worn Leather Vest"] = 37,
+	["Rough Arrow"] = 0,
+	["Hearthstone"] = 0,
+	["Ruined Pelt"] = 5,
+	["Tough Jerky"] = 1,
+	["Patchwork Pants"] = 20,
+	["Splintered Tusk"] = 6,
+}
+InvList_HiddenItems = nil
+InvList_TooltipMode = 2

@@ -1,10 +1,10 @@
 
 GryllsUnitFrames_Settings = {
 	["combat"] = true,
-	["colorhealth"] = true,
+	["namesize"] = 11,
 	["short"] = false,
 	["namefont"] = "frizqt__",
-	["namesize"] = 11,
+	["colorhealth"] = true,
 	["colorpower"] = true,
 	["party"] = true,
 	["both"] = false,

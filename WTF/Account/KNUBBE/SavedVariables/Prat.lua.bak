@@ -1,0 +1,78 @@
+
+PratDB = {
+	["namespaces"] = {
+		["PlayerNames"] = {
+			["profiles"] = {
+				["Default"] = {
+					["classes"] = {
+						["Numpty"] = "Paladin",
+						["Mamul"] = "Druid",
+						["Daleg"] = "Druid",
+						["Knubbe"] = "Warlock",
+						["Rastamman"] = "Hunter",
+						["Zombotron"] = "Mage",
+					},
+					["levels"] = {
+						["Numpty"] = 60,
+						["Mamul"] = 60,
+						["Daleg"] = 28,
+						["Knubbe"] = 16,
+						["Rastamman"] = 51,
+						["Zombotron"] = 42,
+					},
+				},
+			},
+		},
+		["ChannelColorMemory"] = {
+			["profiles"] = {
+				["Default"] = {
+					["colors"] = {
+						["LookingForGroup"] = {
+							["r"] = 1.000000059138984,
+							["g"] = 0.4901961074210703,
+							["b"] = 0.2941176644526422,
+						},
+						["General"] = {
+							["r"] = 1.000000059138984,
+							["g"] = 0.752941220998764,
+							["b"] = 0.752941220998764,
+						},
+						["vQueue"] = {
+							["r"] = 1.000000059138984,
+							["g"] = 0.6705882749520242,
+							["b"] = 0.5333333648741245,
+						},
+						["LocalDefense"] = {
+							["r"] = 1.000000059138984,
+							["g"] = 0.752941220998764,
+							["b"] = 0.752941220998764,
+						},
+						["World"] = {
+							["r"] = 1.000000059138984,
+							["g"] = 0.7490196521393955,
+							["b"] = 0.690196119248867,
+						},
+					},
+				},
+			},
+		},
+		["Buttons"] = {
+			["profiles"] = {
+				["Default"] = {
+					["showreminder"] = true,
+				},
+			},
+		},
+		["Timestamps"] = {
+			["profiles"] = {
+				["Default"] = {
+					["color"] = {
+						["b"] = 0.6,
+						["g"] = 0.6,
+						["r"] = 0.6,
+					},
+				},
+			},
+		},
+	},
+}

@@ -11,13 +11,13 @@ TWPowerBar: enabled
 EQL3: disabled
 VanillaGraphicBoost: enabled
 EQCompare: enabled
-!OmniCC: enabled
+!OmniCC: disabled
 Prat: enabled
 RangeColor: enabled
-SellValue: enabled
+SellValue: disabled
 TinyTip: enabled
 TinyTipExtras: enabled
 TWLC2c: enabled
-BlizzPlates: enabled
+BlizzPlates: disabled
 GryllsGlow: enabled
-GryllsUnitFrames: enabled
+GryllsUnitFrames: disabled

@@ -1,0 +1,21 @@
+Skela 2013.10.01.
+Dynamic font-size currently works with NameLabel, HealthText, Manatext and Class text.
+
+To make a layout support the function, you have to add two variables:'longText', and 'longTextFontSize' to the one you want to modify. The font size of the name will be set to the value of 'longTextFontSize', if the name is longer or equal of the value of 'longText'.
+
+example code:
+...
+								},
+								
+				NameLabel = 	{ 	Font = L"Interface\\AddOns\\ag_UnitFrames\\fonts\\barframes.ttf", 
+									FontSize = 9, 
+									Width = 90, 
+									Point = "LEFT", 
+									RelativeTo = "HealthBar", 
+									RelativePoint = "LEFT", 
+									x = 2, 
+									y =0,
+									longText = 17,
+									longTextFontSize = 7,
+								},
+...

@@ -1,7 +1,0 @@
-## Interface: 11200
-## Title: TW Power Bar
-## Author: Xerron/Er
-## Version: 1.0.0.0
-## Notes: Floating HP/Power Bar
-## SavedVariables: TWPB_HP, TWPB_P
-TWPowerBar.xml

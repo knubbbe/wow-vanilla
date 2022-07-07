@@ -1,0 +1,8 @@
+
+aUFDB = {
+	["profiles"] = {
+		["Default"] = {
+			["ThreeDimensionalPortraits"] = false,
+		},
+	},
+}

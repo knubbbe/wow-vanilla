@@ -9,8 +9,8 @@ TinyTipDB = {
 	["_v"] = 33,
 	["SmoothBorder"] = false,
 	["Friends"] = 1,
+	["PvPIcon"] = true,
 	["ToT"] = 1,
 	["MOffY"] = -50,
-	["PvPIcon"] = true,
 	["KeyElite"] = true,
 }

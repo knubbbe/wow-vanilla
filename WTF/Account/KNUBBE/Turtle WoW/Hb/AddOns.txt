@@ -16,3 +16,8 @@ VanillaStoryline: enabled
 BlizzPlates: disabled
 GryllsGlow: enabled
 GryllsUnitFrames: disabled
+ArchiTotem: enabled
+CallOfElements: disabled
+OneBag: enabled
+Bagnon: disabled
+Bagnon_Core: disabled

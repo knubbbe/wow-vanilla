@@ -1,0 +1,174 @@
+
+ArchiTotem_TotemData = {
+	["ArchiTotemButton_Air1"] = {
+		["name"] = "Tranquil Air Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_Nature_Brilliance",
+	},
+	["ArchiTotemButton_Earth4"] = {
+		["name"] = "Stoneskin Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_Nature_StoneSkinTotem",
+	},
+	["ArchiTotemButton_Water3"] = {
+		["name"] = "Fire Resistance Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_FireResistanceTotem_01",
+	},
+	["ArchiTotemButton_Water1"] = {
+		["name"] = "Mana Spring Totem",
+		["cooldown"] = 0,
+		["duration"] = 60,
+		["icon"] = "Interface\\Icons\\Spell_Nature_ManaRegenTotem",
+	},
+	["ArchiTotemButton_Earth3"] = {
+		["name"] = "Strength of Earth Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_Nature_EarthBindTotem",
+	},
+	["ArchiTotemButton_Fire4"] = {
+		["name"] = "Frost Resistance Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_FrostResistanceTotem_01",
+	},
+	["ArchiTotemButton_Earth5"] = {
+		["name"] = "Stoneclaw Totem",
+		["cooldown"] = 30,
+		["duration"] = 15,
+		["icon"] = "Interface\\Icons\\Spell_Nature_StoneClawTotem",
+	},
+	["ArchiTotemButton_Air4"] = {
+		["name"] = "Grace of Air Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_Nature_InvisibilityTotem",
+	},
+	["ArchiTotemButton_Air3"] = {
+		["name"] = "Windfury Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_Nature_Windfury",
+	},
+	["ArchiTotemButton_Air2"] = {
+		["name"] = "Grounding Totem",
+		["cooldown"] = 15,
+		["duration"] = 45,
+		["icon"] = "Interface\\Icons\\Spell_Nature_GroundingTotem",
+	},
+	["ArchiTotemButton_Earth1"] = {
+		["name"] = "Earthbind Totem",
+		["cooldown"] = 15,
+		["duration"] = 45,
+		["icon"] = "Interface\\Icons\\Spell_Nature_StrengthOfEarthTotem02",
+	},
+	["ArchiTotemButton_Air6"] = {
+		["name"] = "Windwall Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_Nature_EarthBind",
+	},
+	["ArchiTotemButton_Fire1"] = {
+		["name"] = "Searing Totem",
+		["cooldown"] = 0,
+		["duration"] = 55,
+		["icon"] = "Interface\\Icons\\Spell_Fire_SearingTotem",
+	},
+	["ArchiTotemButton_Earth2"] = {
+		["name"] = "Tremor Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_Nature_TremorTotem",
+	},
+	["ArchiTotemButton_Water5"] = {
+		["name"] = "Disease Cleansing Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_Nature_DiseaseCleansingTotem",
+	},
+	["ArchiTotemButton_Water6"] = {
+		["name"] = "Healing Stream Totem",
+		["cooldown"] = 0,
+		["duration"] = 60,
+		["icon"] = "Interface\\Icons\\INV_Spear_04",
+	},
+	["ArchiTotemButton_Air5"] = {
+		["name"] = "Nature Resistance Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_Nature_NatureResistanceTotem",
+	},
+	["ArchiTotemButton_Fire2"] = {
+		["name"] = "Fire Nova Totem",
+		["cooldown"] = 15,
+		["duration"] = 5,
+		["icon"] = "Interface\\Icons\\Spell_Fire_SealOfFire",
+	},
+	["ArchiTotemButton_Air7"] = {
+		["name"] = "Sentry Totem",
+		["cooldown"] = 0,
+		["duration"] = 300,
+		["icon"] = "Interface\\Icons\\Spell_Nature_RemoveCurse",
+	},
+	["ArchiTotemButton_Water4"] = {
+		["name"] = "Poison Cleansing Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_Nature_PoisonCleansingTotem",
+	},
+	["ArchiTotemButton_Water2"] = {
+		["name"] = "Mana Tide Totem",
+		["cooldown"] = 300,
+		["duration"] = 12,
+		["icon"] = "Interface\\Icons\\Spell_Frost_SummonWaterElemental",
+	},
+	["ArchiTotemButton_Fire5"] = {
+		["name"] = "Flametongue Totem",
+		["cooldown"] = 0,
+		["duration"] = 120,
+		["icon"] = "Interface\\Icons\\Spell_Nature_GuardianWard",
+	},
+	["ArchiTotemButton_Fire3"] = {
+		["name"] = "Magma Totem",
+		["cooldown"] = 0,
+		["duration"] = 20,
+		["icon"] = "Interface\\Icons\\Spell_Fire_SelfDestruct",
+	},
+}
+ArchiTotem_Options = {
+	["Air"] = {
+		["shown"] = 1,
+		["max"] = 7,
+	},
+	["Debug"] = false,
+	["Order"] = {
+		["forth"] = "Air",
+		["first"] = "Earth",
+		["third"] = "Water",
+		["second"] = "Fire",
+	},
+	["Ear"] = {
+		["shown"] = 1,
+		["max"] = 5,
+	},
+	["Apperance"] = {
+		["bottomoncast"] = true,
+		["showtooltips"] = true,
+		["scale"] = 1,
+		["allonmouseover"] = false,
+		["shownumericcooldowns"] = true,
+		["direction"] = "up",
+	},
+	["Fir"] = {
+		["shown"] = 1,
+		["max"] = 5,
+	},
+	["Wat"] = {
+		["shown"] = 1,
+		["max"] = 6,
+	},
+}

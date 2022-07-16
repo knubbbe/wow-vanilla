@@ -1,0 +1,2 @@
+
+DruidManaBarDB = nil

@@ -1,0 +1,17 @@
+## Interface: 11200
+## Title: Punschrulle Castbar 1.0
+## Notes: Highly customizable castbar.
+## Author: Attero
+## Version: 1.0
+## Dependencies: 
+## SavedVariables: PunschrulleDB
+## SavedVariablesPerCharacter: PunschrulleProfile
+
+Punschrulle.lua
+media\media.lua
+core\Tables.lua
+core\Options.lua
+core\Entity.lua
+core\Bar.lua
+core\Castbar.lua
+core\Mirror.lua

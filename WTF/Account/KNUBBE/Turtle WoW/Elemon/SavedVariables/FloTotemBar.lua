@@ -1,0 +1,2 @@
+
+FLOTOTEMBAR_OPTIONS = nil

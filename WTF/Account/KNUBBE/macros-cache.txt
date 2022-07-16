@@ -1,3 +1,15 @@
+MACRO 3 "Melee" Ability_SteelMelee
+/script if (not PlayerFrame.inCombat) then AttackTarget() end
+/cast Raptor Strike
+/cast Counterattack
+/cast Mongoose Bite
+END
+MACRO 2 "Pet" Ability_Seal
+/run local c=CastSpellByName if UnitExists("pet") then if UnitHealth("pet")==0 then c("Revive Pet") elseif GetPetHappiness()~=nil and GetPetHappiness()~=3 then c("Feed Pet") PickupContainerItem(0, 13) else c("Dismiss Pet") end else c("Call Pet") end
+END
 MACRO 1 "Rejuvenation" Spell_Nature_Rejuvenation
 /script pt='mouseover' t='target' p='player' s='Rejuvenation' if UnitExists(pt) and UnitIsFriend(p, pt) then TargetUnit(pt) CastSpellByName(s) TargetLastTarget() elseif UnitExists(t) then CastSpellByName(s) else CastSpellByName(s) end
+END
+MACRO 4 "Shoot" Ability_CheapShot
+/run if CheckInteractDistance("target",3) then CastSpellByName("Raptor Strike") else CastSpellByName("Shoot"); end
 END

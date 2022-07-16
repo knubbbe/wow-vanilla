@@ -16,3 +16,5 @@ VanillaStoryline: enabled
 BlizzPlates: disabled
 GryllsGlow: enabled
 GryllsUnitFrames: disabled
+ArchiTotem: enabled
+CallOfElements: disabled
